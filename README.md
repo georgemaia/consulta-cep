@@ -2,4 +2,8 @@
 
 Consultar o CEP
 
-Exemplo no arquivo [consultacep.php](consultacep.php)
+Comando de execução
+~~~php
+php consultacep.php
+~~~
+
